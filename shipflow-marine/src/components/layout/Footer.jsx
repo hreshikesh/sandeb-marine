@@ -14,7 +14,7 @@ const NAVIGATION = [
   { label: "SHIPFLOW", to: "/shipflow" },
   { label: "CAESES", to: "/caeses" },
   { label: "Contact", href: "https://sandebtech.com/contact" },
-  { label: "Book a Meeting", href: "www.sandebtech.com/meeting" },
+  { label: "Book a Meeting", href: "https://sandebtech.com/meeting" },
 ];
 
 export default function Footer() {
