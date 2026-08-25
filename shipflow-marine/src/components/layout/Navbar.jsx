@@ -23,7 +23,7 @@ const rightLinks = [
   },
   {
     label: "Meeting",
-    href: "https://sandebtech.com/meeting",
+    href: "www.sandebtech.com/meeting",
     icon: Calendar,
   },
 ];
