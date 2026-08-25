@@ -8,7 +8,7 @@ import {
 
 import Home from "./pages/Home";
 import Shipflow from "./pages/Shipflow";
-import Caeses from "./pages/caeses";
+import Caeses from "./pages/Caeses";
 
 import Layout from "./components/layout/Layout";
 import ShipflowLoader from "./components/loader/ShipflowLoader";
